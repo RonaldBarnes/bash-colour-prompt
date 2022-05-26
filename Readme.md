@@ -20,3 +20,4 @@ Or:
 	* `force_color_prompt=yes`
 * Set prompt (lines containing `PS1=...`)
 
+![Screenshot_1](https://user-images.githubusercontent.com/36019446/170593991-247859cb-9170-432f-917d-2f51e065e329.png)
